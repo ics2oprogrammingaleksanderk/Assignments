@@ -110,6 +110,7 @@ end
 local function AskQuestion()
 	
 	randomOperator = math.random(1, 4)
+	randomOperator = 2
  	
 	
  -- correctAnswer
